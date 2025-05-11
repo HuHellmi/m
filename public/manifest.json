@@ -1,0 +1,14 @@
+{
+  "name": "متجر المسعودي",
+  "theme_color": "#B38600",
+  "background_color": "#ffffff",
+  "short_name": "ALMASOODI",
+  "id": "almasoodi",
+  "icon": {
+    "src": "/masoudi.png",
+  "size": "207*207"
+},
+  "categories": [
+    "business"
+  ]
+}
